@@ -56,54 +56,6 @@
                     "account": "2345233432"
                   },
                   {
-                    "id": "234236778880005995",
-                    "dateandtime": "Tuesday",
-                    "name": "Fagbenja Tolani",
-                    "amount": "69700",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "1464646464778888",
-                    "dateandtime": "Tuesday",
-                    "name": "Fagbenja Tolani",
-                    "amount": "70500",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "343434",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "80400",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "3odsodosods43434",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "52700",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "34343idisdisidisd4",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "10500",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "34343ooqoqq4",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "30600",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
                     "id": "34sdsdsdsd3434",
                     "dateandtime": "7 April 2022 10:54pm",
                     "name": "Fagbenja Tolani",
@@ -166,31 +118,8 @@
                     "amount": "52500",
                     "bank": "UBA",
                     "account": "2345233432"
-                  },
-                  {
-                    "id": "34343wqwweweweewqwq4",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "32400",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "34343wqwqwq4",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani",
-                    "amount": "14600",
-                    "bank": "UBA",
-                    "account": "2345233432"
-                  },
-                  {
-                    "id": "34343eeeeewqwqwq4",
-                    "dateandtime": "7 April 2022 10:54pm",
-                    "name": "Fagbenja Tolani yeee",
-                    "amount": "99500",
-                    "bank": "UBA",
-                    "account": "2345233432"
                   }
+      
             ]
             ,
             "refund": [
