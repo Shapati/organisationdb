@@ -141,21 +141,21 @@
                     "id": "uwufhwufhwuehfwwefwnef",
                     "name":"Ayandiran Daniel ",
                     "email":"nifemiayandiran@gmail.com",
-                    "role":"frontend developer",
+                    "role":"Manager",
                     "manage":"edit"
                 },
                 {   
                     "id": "uwufhwufhwuehfwwefwnef",
                     "name":"Fagbenga Tolani",
                     "email":"tolani@gmial.com",
-                    "role":"frontend developer",
+                    "role":"Pending",
                     "manage":"edit"
                 },
                 {   
                     "id": "uwufhwufhwuehfwwefwnef",
                     "name":"Samuel Mustapha",
                     "email":"smauel@gmail.com",
-                    "role":"frontend developer",
+                    "role":"Cashier",
                     "manage":"edit"
                 }
             ]
